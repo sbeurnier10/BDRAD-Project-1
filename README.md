@@ -10,7 +10,7 @@ For Helper.ipynb
 2) Combined the numpy file with breast density information (binary) to create numpyZ files.
 
 For PyTorch ResNet.ipynb
-3) Created a basic ResNet architecture to train on breast denseness.
-4) Performed predictions with the algorithm on the testing set.
-5) Provided confusion matrix and ROC curve. Performed DeLong test and confidence interval around the ROC curve using bootstrapping
+1) Created a basic ResNet architecture to train on breast denseness.
+2) Performed predictions with the algorithm on the testing set.
+3) Provided confusion matrix and ROC curve. Performed DeLong test and confidence interval around the ROC curve using bootstrapping
 
