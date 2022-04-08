@@ -5,7 +5,7 @@ Using Mammogram Images to Diagnose Breast Tumors
 Create a basic 2D convolutional neural network algorithm to predict breast density (classification problem)
 
 # Steps
-For Helper.ipynb
+For Helper.ipynb  
 1) Wrote a function that can load DICOM or PNG file and then convert them to user specified image size (ex: 299 x 299 or 229x229) numpy files. 
 2) Combined the numpy file with breast density information (binary) to create numpyZ files.
 
